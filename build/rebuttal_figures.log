@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.16)  7 APR 2026 14:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.16)  7 APR 2026 17:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -228,6 +228,9 @@ File: attention_2/Attention_only/attention/media/images/A_2_2300_c8bc8463802da8c
 <use attention_2/Attention_only/attention/media/images/A_2_2300_c8bc8463802da8c4f2c3.png>
 Package pdftex.def Info: attention_2/Attention_only/attention/media/images/A_2_2300_c8bc8463802da8c4f2c3.png  used on input line 54.
 (pdftex.def)             Requested size: 164.41711pt x 164.42001pt.
+
+LaTeX Warning: Float too large for page by 5.42804pt on input line 60.
+
 [1{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./attention_2/Attention_only/attention/media/images/Attention 0_600_79db42d35371d577543e.png> <./attention_2/Attention_only/attention/media/images/Attention 0_1100_861f4ed65ff341408fad.png> <./attention_2/Attention_only/attention/media/images/Attention 0_1600_ac4e4f69b3067f348662.png> <./attention_2/Attention_only/attention/media/images/Attention 0_2300_d1c37f6e82b4e969d760.png> <./attention_2/Attention_only/attention/media/images/A_2_600_c98abeb589af1e7fca07.png> <./attention_2/Attention_only/attention/media/images/A_2_1100_33682095ae2d3a1e3194.png> <./attention_2/Attention_only/attention/media/images/A_2_1600_55510a8f0380c13d0cfd.png> <./attention_2/Attention_only/attention/media/images/A_2_2300_c8bc8463802da8c4f2c3.png>]
 <attention_2/xksepgn7_betas_window_combined.pdf, id=28, 700.23798pt x 420.72897pt>
 File: attention_2/xksepgn7_betas_window_combined.pdf Graphic file (type pdf)
@@ -255,9 +258,9 @@ Here is how much of TeX's memory you used:
  26254 multiletter control sequences out of 15000+600000
  558676 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 67i,8n,77p,651b,489s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 67i,8n,77p,728b,489s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on build/rebuttal_figures.pdf (3 pages, 238627 bytes).
+Output written on build/rebuttal_figures.pdf (3 pages, 239187 bytes).
 PDF statistics:
  166 PDF objects out of 1000 (max. 8388607)
  50 compressed objects within 1 object stream

@@ -55,7 +55,7 @@
         \caption{Time 2300}
     \end{subfigure}
 
-    \caption{\textbf{Q,K in second layer with random initialization.} Plots for $k=5$ and $l=120$ without assumption A1, A2. We initialize $Q^{\top}K$ randomly at initialization as is evident from time 600. We see the evolution of the second layer where the top principal diagonal of the block matrix aligns with $\tilde{I}$. Although other blocks also move, the main principal diagonal stays close to our simplification.}
+    \caption{\textbf{Q,K in second layer with random initialization.} Plots for $k=5$ and $l=120$ without assumption A1, A2. We use Gaussian initialization for $Q$ and $K$ with variance 0.1, making $Q^{\top}K$ random at initialization as is evident from time 600. We see the evolution of the second layer where the top principal diagonal of the block matrix aligns with $\tilde{I}$. Although other blocks also move, the main principal diagonal stays close to our simplification.}
     \label{fig:attention_comparison_times}
 \end{figure}
 
@@ -64,7 +64,7 @@
 \begin{figure}[htbp]
     \centering
     \includegraphics[width=\textwidth]{attention_2/xksepgn7_betas_window_combined.pdf}
-    \caption{\textbf{Betas and Window Weights with full Q,K initialization.} Again for the same setting as Figure~\ref{fig:attention_comparison_times}. We plot the attention weights and also the betas. We compute the betas by taking the inner product of the blocks of $Q^{\top}K$ with $I$. We see that the betas, attention weights are tied and evolve in a way that is consistent with our conservative law and theory.}
+    \caption{\textbf{Betas and Window Weights with full Q,K initialization.} Again for the same setting as Figure~\ref{fig:attention_comparison_times}. We plot the attention weights and also the betas. We compute the betas by taking the inner product of the blocks of $Q^{\top}K$ with $I$. We see that the betas, attention weights are tied and evolve in a way that is consistent with our conservative law and theory. The triaing is not complete as it is taking a long time to leave the last plateau.}
     \label{fig:xksepgn7_betas_window_combined}
 \end{figure}
 
