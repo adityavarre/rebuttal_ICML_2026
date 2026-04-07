@@ -1,0 +1,261 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.16)  7 APR 2026 13:54
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/Users/adityavarre/Desktop/PhD/working_paper/stage-wise-incontext-recall/iclr2026/rebuttal/rebuttal_figures.tex
+(/Users/adityavarre/Desktop/PhD/working_paper/stage-wise-incontext-recall/iclr2026/rebuttal/rebuttal_figures.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+(/usr/local/texlive/2024/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2024/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count188
+\c@section=\count189
+\c@subsection=\count190
+\c@subsubsection=\count191
+\c@paragraph=\count192
+\c@subparagraph=\count193
+\c@figure=\count194
+\c@table=\count195
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen141
+\Gin@req@width=\dimen142
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen143
+\captionmargin=\dimen144
+\caption@leftmargin=\dimen145
+\caption@rightmargin=\dimen146
+\caption@width=\dimen147
+\caption@indent=\dimen148
+\caption@parindent=\dimen149
+\caption@hangindent=\dimen150
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count196
+\c@continuedfloat=\count197
+)
+Package caption Info: New subtype `subfigure' on input line 238.
+\c@subfigure=\count198
+Package caption Info: New subtype `subtable' on input line 238.
+\c@subtable=\count199
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (/usr/local/texlive/2024/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (/usr/local/texlive/2024/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count266
+\Gm@cntv=\count267
+\c@Gm@tempcnt=\count268
+\Gm@bindingoffset=\dimen151
+\Gm@wd@mp=\dimen152
+\Gm@odd@mp=\dimen153
+\Gm@even@mp=\dimen154
+\Gm@layoutwidth=\dimen155
+\Gm@layoutheight=\dimen156
+\Gm@layouthoffset=\dimen157
+\Gm@layoutvoffset=\dimen158
+\Gm@dimlist=\toks18
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/grffile/grffile.sty
+Package: grffile 2019/11/11 v2.1 Extended file name support for graphics (legacy)
+Package grffile Info: This package is an empty stub for compatibility on input line 40.
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count269
+\l__pdf_internal_box=\box51
+) (build/rebuttal_figures.aux)
+\openout1 = `rebuttal_figures.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+ (/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count270
+\scratchdimen=\dimen159
+\scratchbox=\box52
+\nofMPsegments=\count271
+\nofMParguments=\count272
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count273
+\MPscratchDim=\dimen160
+\MPnumerator=\count274
+\makeMPintoPDFobject=\count275
+\everyMPtoPDFconversion=\toks20
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+ (/usr/local/texlive/2024/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/grfext/grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+ (/usr/local/texlive/2024/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)) (/usr/local/texlive/2024/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+ (/usr/local/texlive/2024/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)) (/usr/local/texlive/2024/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75502pt
+* \textheight=650.43001pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+<attention_2/Attention_only/attention/media/images/Attention 0_600_79db42d35371d577543e.png, id=1, 1606.0pt x 401.5pt>
+File: attention_2/Attention_only/attention/media/images/Attention 0_600_79db42d35371d577543e.png Graphic file (type png)
+<use attention_2/Attention_only/attention/media/images/Attention 0_600_79db42d35371d577543e.png>
+Package pdftex.def Info: attention_2/Attention_only/attention/media/images/Attention 0_600_79db42d35371d577543e.png  used on input line 14.
+(pdftex.def)             Requested size: 211.38832pt x 52.84622pt.
+<attention_2/Attention_only/attention/media/images/Attention 0_1100_861f4ed65ff341408fad.png, id=3, 1606.0pt x 401.5pt>
+File: attention_2/Attention_only/attention/media/images/Attention 0_1100_861f4ed65ff341408fad.png Graphic file (type png)
+<use attention_2/Attention_only/attention/media/images/Attention 0_1100_861f4ed65ff341408fad.png>
+Package pdftex.def Info: attention_2/Attention_only/attention/media/images/Attention 0_1100_861f4ed65ff341408fad.png  used on input line 19.
+(pdftex.def)             Requested size: 211.38832pt x 52.84622pt.
+<attention_2/Attention_only/attention/media/images/Attention 0_1600_ac4e4f69b3067f348662.png, id=4, 1606.0pt x 401.5pt>
+File: attention_2/Attention_only/attention/media/images/Attention 0_1600_ac4e4f69b3067f348662.png Graphic file (type png)
+<use attention_2/Attention_only/attention/media/images/Attention 0_1600_ac4e4f69b3067f348662.png>
+Package pdftex.def Info: attention_2/Attention_only/attention/media/images/Attention 0_1600_ac4e4f69b3067f348662.png  used on input line 25.
+(pdftex.def)             Requested size: 211.38832pt x 52.84622pt.
+<attention_2/Attention_only/attention/media/images/Attention 0_2300_d1c37f6e82b4e969d760.png, id=5, 1606.0pt x 401.5pt>
+File: attention_2/Attention_only/attention/media/images/Attention 0_2300_d1c37f6e82b4e969d760.png Graphic file (type png)
+<use attention_2/Attention_only/attention/media/images/Attention 0_2300_d1c37f6e82b4e969d760.png>
+Package pdftex.def Info: attention_2/Attention_only/attention/media/images/Attention 0_2300_d1c37f6e82b4e969d760.png  used on input line 30.
+(pdftex.def)             Requested size: 211.38832pt x 52.84622pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 36.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 36.
+<attention_2/Attention_only/attention/media/images/A_2_600_c98abeb589af1e7fca07.png, id=6, 602.25pt x 602.25pt>
+File: attention_2/Attention_only/attention/media/images/A_2_600_c98abeb589af1e7fca07.png Graphic file (type png)
+<use attention_2/Attention_only/attention/media/images/A_2_600_c98abeb589af1e7fca07.png>
+Package pdftex.def Info: attention_2/Attention_only/attention/media/images/A_2_600_c98abeb589af1e7fca07.png  used on input line 38.
+(pdftex.def)             Requested size: 164.41711pt x 164.42001pt.
+<attention_2/Attention_only/attention/media/images/A_2_1100_33682095ae2d3a1e3194.png, id=7, 602.25pt x 602.25pt>
+File: attention_2/Attention_only/attention/media/images/A_2_1100_33682095ae2d3a1e3194.png Graphic file (type png)
+<use attention_2/Attention_only/attention/media/images/A_2_1100_33682095ae2d3a1e3194.png>
+Package pdftex.def Info: attention_2/Attention_only/attention/media/images/A_2_1100_33682095ae2d3a1e3194.png  used on input line 43.
+(pdftex.def)             Requested size: 164.41711pt x 164.42001pt.
+<attention_2/Attention_only/attention/media/images/A_2_1600_55510a8f0380c13d0cfd.png, id=8, 602.25pt x 602.25pt>
+File: attention_2/Attention_only/attention/media/images/A_2_1600_55510a8f0380c13d0cfd.png Graphic file (type png)
+<use attention_2/Attention_only/attention/media/images/A_2_1600_55510a8f0380c13d0cfd.png>
+Package pdftex.def Info: attention_2/Attention_only/attention/media/images/A_2_1600_55510a8f0380c13d0cfd.png  used on input line 49.
+(pdftex.def)             Requested size: 164.41711pt x 164.42001pt.
+<attention_2/Attention_only/attention/media/images/A_2_2300_c8bc8463802da8c4f2c3.png, id=9, 602.25pt x 602.25pt>
+File: attention_2/Attention_only/attention/media/images/A_2_2300_c8bc8463802da8c4f2c3.png Graphic file (type png)
+<use attention_2/Attention_only/attention/media/images/A_2_2300_c8bc8463802da8c4f2c3.png>
+Package pdftex.def Info: attention_2/Attention_only/attention/media/images/A_2_2300_c8bc8463802da8c4f2c3.png  used on input line 54.
+(pdftex.def)             Requested size: 164.41711pt x 164.42001pt.
+[1{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./attention_2/Attention_only/attention/media/images/Attention 0_600_79db42d35371d577543e.png> <./attention_2/Attention_only/attention/media/images/Attention 0_1100_861f4ed65ff341408fad.png> <./attention_2/Attention_only/attention/media/images/Attention 0_1600_ac4e4f69b3067f348662.png> <./attention_2/Attention_only/attention/media/images/Attention 0_2300_d1c37f6e82b4e969d760.png> <./attention_2/Attention_only/attention/media/images/A_2_600_c98abeb589af1e7fca07.png> <./attention_2/Attention_only/attention/media/images/A_2_1100_33682095ae2d3a1e3194.png> <./attention_2/Attention_only/attention/media/images/A_2_1600_55510a8f0380c13d0cfd.png> <./attention_2/Attention_only/attention/media/images/A_2_2300_c8bc8463802da8c4f2c3.png>]
+<attention_2/xksepgn7_betas_window_combined.pdf, id=28, 700.23798pt x 420.72897pt>
+File: attention_2/xksepgn7_betas_window_combined.pdf Graphic file (type pdf)
+<use attention_2/xksepgn7_betas_window_combined.pdf>
+Package pdftex.def Info: attention_2/xksepgn7_betas_window_combined.pdf  used on input line 66.
+(pdftex.def)             Requested size: 469.75502pt x 282.25287pt.
+ [2
+
+
+ <./attention_2/xksepgn7_betas_window_combined.pdf>] (build/rebuttal_figures.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 3894 strings out of 474116
+ 75007 string characters out of 5743681
+ 1932187 words of memory out of 5000000
+ 26246 multiletter control sequences out of 15000+600000
+ 558676 words of font info for 38 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 67i,8n,77p,651b,489s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on build/rebuttal_figures.pdf (2 pages, 204557 bytes).
+PDF statistics:
+ 106 PDF objects out of 1000 (max. 8388607)
+ 35 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+
