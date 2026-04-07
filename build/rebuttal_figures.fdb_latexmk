@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1775562894.7026 "/Users/adityavarre/Desktop/PhD/working_paper/stage-wise-incontext-recall/iclr2026/rebuttal/rebuttal_figures.tex" "build/rebuttal_figures.pdf" "rebuttal_figures" 1775562895.99532 0
-  "/Users/adityavarre/Desktop/PhD/working_paper/stage-wise-incontext-recall/iclr2026/rebuttal/rebuttal_figures.tex" 1775562894.74817 3589 247be9eac92b6e3a585b38900b509906 ""
+["pdflatex"] 1775564188.70496 "/Users/adityavarre/Desktop/PhD/working_paper/stage-wise-incontext-recall/iclr2026/rebuttal/rebuttal_figures.tex" "build/rebuttal_figures.pdf" "rebuttal_figures" 1775564189.70174 0
+  "/Users/adityavarre/Desktop/PhD/working_paper/stage-wise-incontext-recall/iclr2026/rebuttal/rebuttal_figures.tex" 1775564189.36941 3977 a14a694b7d4718e8cbec1611d34b7197 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr9.tfm" 1136768653 1292 6b21b9c2c7bebb38aa2273f7ca0fb3af ""
@@ -48,8 +48,9 @@
   "attention_2/Attention_only/attention/media/images/Attention 0_2300_d1c37f6e82b4e969d760.png" 1775528822.9407 5605 0e9d86517443c6fd8a8998fb337e3636 ""
   "attention_2/Attention_only/attention/media/images/Attention 0_600_79db42d35371d577543e.png" 1775528820.16783 6730 3e948b4030a5bf6527b6c7c59b1b4078 ""
   "attention_2/xksepgn7_betas_window_combined.pdf" 1775561422.33298 29681 98e78e5363d77ef208b06c54a7de26c3 ""
-  "build/rebuttal_figures.aux" 1775562895.93588 1238 cce2cb343ac9f868dc02f062973827fe "pdflatex"
-  "rebuttal_figures.tex" 1775562894.74817 3589 247be9eac92b6e3a585b38900b509906 ""
+  "build/rebuttal_figures.aux" 1775564189.64819 1618 abb87d3423c0a0ff69934f48be93516e "pdflatex"
+  "combined_plots.pdf" 1775528145.1165 39393 8f6903938eace0bed07643c740736560 ""
+  "rebuttal_figures.tex" 1775564189.36941 3977 a14a694b7d4718e8cbec1611d34b7197 ""
   (generated)
   "build/rebuttal_figures.aux"
   "build/rebuttal_figures.log"

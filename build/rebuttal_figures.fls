@@ -115,6 +115,11 @@ INPUT ./attention_2/xksepgn7_betas_window_combined.pdf
 INPUT ./attention_2/xksepgn7_betas_window_combined.pdf
 INPUT ./attention_2/xksepgn7_betas_window_combined.pdf
 INPUT ./attention_2/xksepgn7_betas_window_combined.pdf
+INPUT ./combined_plots.pdf
+INPUT ./combined_plots.pdf
+INPUT ./combined_plots.pdf
+INPUT ./combined_plots.pdf
+INPUT ./combined_plots.pdf
 INPUT build/rebuttal_figures.aux
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
