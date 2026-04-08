@@ -1,13 +1,16 @@
 # Fdb version 4
-["pdflatex"] 1775575362.22117 "/Users/adityavarre/Desktop/PhD/working_paper/stage-wise-incontext-recall/iclr2026/rebuttal/rebuttal_figures.tex" "build/rebuttal_figures.pdf" "rebuttal_figures" 1775575363.1235 0
-  "/Users/adityavarre/Desktop/PhD/working_paper/stage-wise-incontext-recall/iclr2026/rebuttal/rebuttal_figures.tex" 1775575361.08999 4117 6c739737db5bc7dd396535e4c0049459 ""
+["pdflatex"] 1775638967.01162 "/Users/adityavarre/Desktop/PhD/working_paper/stage-wise-incontext-recall/iclr2026/rebuttal/rebuttal_figures.tex" "build/rebuttal_figures.pdf" "rebuttal_figures" 1775638967.63804 0
+  "/Users/adityavarre/Desktop/PhD/working_paper/stage-wise-incontext-recall/iclr2026/rebuttal/rebuttal_figures.tex" 1775638966.57698 4474 6ff413cc5214031258463aa480d9086c ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr9.tfm" 1136768653 1292 6b21b9c2c7bebb38aa2273f7ca0fb3af ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1248133631 34811 78b52f49e893bcba91bd7581cdc144c0 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1248133631 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
+  "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb" 1248133631 36281 c355509802a035cadc5f15869451dcee ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1248133631 35752 024fb6c41858982481f6968b5fc26508 ""
+  "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb" 1248133631 32762 224316ccc9ad3ca0423a14971cfa7fc1 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb" 1248133631 33993 9b89b85fd2d9df0482bd47194d1d3bf3 ""
+  "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1248133631 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb" 1248133631 32716 08e384dc442464e7285e891af9f45947 ""
   "/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1461363279 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/usr/local/texlive/2024/texmf-dist/tex/generic/iftex/iftex.sty" 1644112042 7237 bdd120a32c8fdb4b433cf9ca2e7cd98a ""
@@ -48,9 +51,9 @@
   "attention_2/Attention_only/attention/media/images/Attention 0_2300_d1c37f6e82b4e969d760.png" 1775528822.9407 5605 0e9d86517443c6fd8a8998fb337e3636 ""
   "attention_2/Attention_only/attention/media/images/Attention 0_600_79db42d35371d577543e.png" 1775528820.16783 6730 3e948b4030a5bf6527b6c7c59b1b4078 ""
   "attention_2/xksepgn7_betas_window_combined.pdf" 1775561422.33298 29681 98e78e5363d77ef208b06c54a7de26c3 ""
-  "build/rebuttal_figures.aux" 1775575363.08559 1758 ad3c086deaabed7abae039571ec063d5 "pdflatex"
+  "build/rebuttal_figures.aux" 1775638967.6003 2118 82ff078af0da3fd5fa7b3cc607666162 "pdflatex"
   "combined_plots.pdf" 1775528145.1165 39393 8f6903938eace0bed07643c740736560 ""
-  "rebuttal_figures.tex" 1775575361.08999 4117 6c739737db5bc7dd396535e4c0049459 ""
+  "rebuttal_figures.tex" 1775638966.57698 4474 6ff413cc5214031258463aa480d9086c ""
   (generated)
   "build/rebuttal_figures.aux"
   "build/rebuttal_figures.log"

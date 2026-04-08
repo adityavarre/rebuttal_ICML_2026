@@ -55,7 +55,7 @@
         \caption{Time 2300}
     \end{subfigure}
 
-    \caption{\textbf{Q,K in second layer with random initialization.} Plots for $k=5$ and $l=120$ without assumption A1, A2. We use Gaussian initialization for $Q$ and $K$ with variance 0.1, making $Q^{\top}K$ random at initialization as is evident from time 600. We see the evolution of the second layer where the top principal diagonal of the block matrix aligns with $\tilde{I}$. Although other blocks also move, the main principal diagonal stays close to our simplification.}
+    \caption{\textbf{Q,K in second layer with random initialization.} Time snapshots of representations of first layer and the second layer for order $k=5$ and sequence length$l=120$ without assumption A1, A2. We use Gaussian initialization for $Q$ and $K$ with variance 0.1, making $Q^{\top}K$ random at initialization as is evident from time 600. We see the evolution of the second layer where the blocks aligns with $\tilde{I}$. Although other blocks also move, the blocks directly above the principal diagonal dominates and the evolution stays close to our simplification.}
     \label{fig:attention_comparison_times}
 \end{figure}
 
@@ -64,7 +64,7 @@
 \begin{figure}[htbp]
     \centering
     \includegraphics[width=\textwidth]{attention_2/xksepgn7_betas_window_combined.pdf}
-    \caption{\textbf{Betas and Window Weights with full Q,K initialization.} Again for the same setting as Figure~\ref{fig:attention_comparison_times}. We plot the attention weights and also the betas. We compute the betas by taking the inner product of the blocks of $Q^{\top}K$ with $I$. We see that the betas, attention weights are tied and evolve in a way that is consistent with our conservative law and theory. The triaing is not complete as it is taking a long time to leave the last plateau.}
+    \caption{\textbf{Betas and Window Weights with full Q,K initialization.} Again for the same setting as Figure~\ref{fig:attention_comparison_times}. We plot the attention weights and also the equivalent $\beta$'s. We compute the betas as following:  $\beta_{h,g}^2 = |\langle B_{h,g} , I \rangle|$, where $B_{h,g}$ is block along row $h$ and column $g$.  We see that the $\beta$'s, attention weights are tied and evolve in a way that is consistent with our conservative law and theory. The triaing is not complete as it is taking a long time to leave the last plateau.}
     \label{fig:xksepgn7_betas_window_combined}
 \end{figure}
 
@@ -78,7 +78,7 @@
 \begin{figure}[htbp]
     \centering
     \includegraphics[width=\textwidth]{combined_plots.pdf}
-    \caption{Incomplete permutations for $k=4$ and length = 60 at various scales trained with cross entropy and with assumptions A(0)-A(4). It validates the timescales and conservative law when all the permutations are not present in the context.}
+    \caption{ \textbf{Experiment with incomplete permutation list in the context.} The order $k=4$ and sequence length $l=60$. We plot the evolution of runs with various scales of initialization trained with cross entropy and with assumptions A(0)-A(3). It validates the timescales and conservative law when all the permutations are not present in the context. The remaining experimental setup is same as Figure 11 in the main paper.}
     \label{fig:combined_plots}
 \end{figure}
 
